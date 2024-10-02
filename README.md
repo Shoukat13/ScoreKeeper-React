@@ -1,0 +1,1 @@
+# This is an Basic ReactApp to manage Score Board for Cricket
